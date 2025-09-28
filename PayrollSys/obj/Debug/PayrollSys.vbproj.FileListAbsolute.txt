@@ -1,0 +1,12 @@
+C:\Users\Robert\source\repos\PayrollSys\bin\Debug\PayrollSys.exe.config
+C:\Users\Robert\source\repos\PayrollSys\bin\Debug\PayrollSys.exe
+C:\Users\Robert\source\repos\PayrollSys\bin\Debug\PayrollSys.pdb
+C:\Users\Robert\source\repos\PayrollSys\bin\Debug\PayrollSys.xml
+C:\Users\Robert\source\repos\PayrollSys\obj\Debug\PayrollSys.vbproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\PayrollSys\obj\Debug\PayrollSys.Form1.resources
+C:\Users\Robert\source\repos\PayrollSys\obj\Debug\PayrollSys.Resources.resources
+C:\Users\Robert\source\repos\PayrollSys\obj\Debug\PayrollSys.vbproj.GenerateResource.cache
+C:\Users\Robert\source\repos\PayrollSys\obj\Debug\PayrollSys.vbproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\PayrollSys\obj\Debug\PayrollSys.exe
+C:\Users\Robert\source\repos\PayrollSys\obj\Debug\PayrollSys.xml
+C:\Users\Robert\source\repos\PayrollSys\obj\Debug\PayrollSys.pdb
